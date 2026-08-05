@@ -3,9 +3,15 @@ Model that's predict whether a client will subscribe to a bank term deposit.
 
 Instruction
 
-Unzip the dataset and put test,train csv inside the data folder
+Create a folder example = bank_term_deposit_prediction_NEW_Final
 
-Open the main folder with vscode
+Create empty folders inside bank_term_deposit_prediction_NEW_Final such as charts,data,models
+
+Download & Copy and past the app, notebooks folder inside the bank_term_deposit_prediction_NEW_Final
+
+Download & Unzip the dataset and put test,train csv inside the data folder
+
+Open the main folder bank_term_deposit_prediction_NEW_Final with vscode
 
 Save all files
 
