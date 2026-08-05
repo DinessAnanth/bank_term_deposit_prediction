@@ -2,6 +2,7 @@
 Model that's predict whether a client will subscribe to a bank term deposit.
 
 Instruction
+
 Unzip the dataset and put test,train csv inside the data folder, 
 Open the main folder with vscode, 
 Save all files, 
